@@ -40,7 +40,7 @@ Support business decisions for marketing and operations.
 
 📌 Key Visuals in the Dashboard
 
-KPI Cards → Total Sales, Total Profit, Quantity Sold, Avg. Discount.
+KPI Cards → Total Sales, Total Profit, Quantity Sold, Avg Discount.
 Sales & Profit Over Time → Line chart for month/year-wise trends.
 Category & Sub-Category Breakdown → Bar/Tree map analysis.
 Regional Performance Map → Geo visualization of sales distribution.
