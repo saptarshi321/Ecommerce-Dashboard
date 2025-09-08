@@ -1,42 +1,57 @@
 # Ecommerce-Dashboard
-📊 E-Commerce Sales Dashboard (Power BI)  
-🏷️ Business Problem
 
-In a competitive e-commerce market, companies often struggle to:
+🏷️ Project Title
+📊 E-Commerce Sales Dashboard
 
-Track real-time sales performance across multiple regions and product categories.  
-Identify top revenue drivers and low-performing segments.  
-Understand seasonality and customer buying behavior.  
-Connect marketing and operations with data-driven insights instead of relying on intuition.  
+📝 Short Description / Purpose
+
+An interactive Power BI dashboard designed to analyze sales, profit, and customer behavior for an e-commerce business.
+The dashboard helps stakeholders identify top-performing products, profitable categories, regional sales trends, and seasonal patterns to make data-driven business decisions.
+
+⚙️ Tech Stack
+
+Power BI → Data modeling, DAX measures, dashboard visualization
+Excel / CSV (Raw Dataset) → Data source for sales records
+Power Query → Data cleaning and transformation
+
+📂 Data Source
+
+Order details (Order ID, Customer ID, Order Date, Ship Mode)
+Product information (Category, Sub-category, Product Name)
+Sales metrics (Sales Amount, Profit, Quantity, Discount)
+Regional details (Region, State, City, Postal Code)
+
+🌟 Features / Highlights
+🔎 Business Problem
+
+E-commerce businesses often struggle to:
+Track real-time sales performance across categories & regions.
+Identify top revenue drivers and low-performing products.
+Detect seasonal demand fluctuations.
+Align marketing, inventory, and operations with data insights.
 
 🎯 Dashboard Goals
 
-This dashboard was designed to:
-
-Provide a central view of sales, profit, and quantity metrics.  
-Enable interactive filtering by region, category, sub-category, and time.  
-Highlight top-selling products and profitable categories.  
-Monitor monthly and quarterly trends for growth and seasonality.  
-Support decision-making for marketing, sales, and supply chain teams.  
+Provide a centralized view of key sales & profit metrics.
+Enable interactive filtering by category, region, and time.
+Highlight top products and profitable categories.
+Visualize sales and profit trends for strategic planning.
+Support business decisions for marketing and operations.
 
 📌 Key Visuals in the Dashboard
 
-KPI Cards → Revenue, Profit, Quantity Sold, Avg. Discount.  
-Sales and Profit Trends → Line and area charts for time-series analysis.  
-Category and Sub-Category Analysis → Bar and tree maps to show contribution breakdown.  
-Regional Sales Performance → Map visualization for geographical analysis.  
-Top-N Products → Ranked chart highlighting top sellers and profit generators.  
-Interactive Slicers and Buttons → Region, category, and date toggle for flexible exploration.  
+KPI Cards → Total Sales, Total Profit, Quantity Sold, Avg. Discount.
+Sales & Profit Over Time → Line chart for month/year-wise trends.
+Category & Sub-Category Breakdown → Bar/Tree map analysis.
+Regional Performance Map → Geo visualization of sales distribution.
+Top-N Products → Ranked bar chart for high revenue/profit products.
+Interactive Filters & Button Slicer → Custom toggle for deeper analysis.
 
-💡 Business Impacts and Insights
+💡 Business Impacts & Insights
 
-Revenue Drivers → Identify which regions and products contribute most to overall revenue.  
-Profitability Focus → Find categories with high sales but low profit margins.  
-Customer Behavior → Understand repeat versus one-time buyers and their spending habits.  
-Seasonality Patterns → Detect high-demand months during festive or promotional seasons.  
-Operational Planning → Assists inventory and logistics teams in reducing stockouts and overstocking.  
-Strategic Actions → Guides marketing to focus on profitable categories and underperforming regions.  
+Revenue Drivers → Identified top regions & categories driving sales.
+Profitability → Highlighted products with high sales but low margins.
+Customer Trends → Seasonal and regional demand patterns discovered.
+Operational Planning → Improved inventory forecasting & logistics planning.
+Strategic Actions → Marketing focus shifted toward high-margin categories and underperforming regions
 
-Screenshot & Demo
-See how the  dashboard looks like
-(https://github.com/saptarshi321/Ecommerce-Dashboard/blob/main/Ecommerce%20Dashboard.png)
