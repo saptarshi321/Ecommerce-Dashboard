@@ -38,3 +38,5 @@ Operational Planning → Assists inventory and logistics teams in reducing stock
 Strategic Actions → Guides marketing to focus on profitable categories and underperforming regions.  
 
 Screenshot & Demo
+See how the  dashboard looks like
+(https://github.com/saptarshi321/Ecommerce-Dashboard/blob/main/Ecommerce%20Dashboard.png)
