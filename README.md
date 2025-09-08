@@ -57,3 +57,7 @@ Customer Trends → Seasonal and regional demand patterns discovered.
 Operational Planning → Improved inventory forecasting & logistics planning.
 Strategic Actions → Marketing focus shifted toward high-margin categories and underperforming regions
 
+Screennshot / Demo
+
+See the dashboard look :- ![Alt text](https://github.com/username/repo/assets/image.png).
+![Dashboard Preview](https://github.com/saptarshi321/Ecommerce-Dashboard/blob/main/Ecommerce%20Dashboard.png).
