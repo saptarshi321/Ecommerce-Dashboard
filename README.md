@@ -55,7 +55,9 @@ Revenue Drivers → Identified top regions & categories driving sales.
 Profitability → Highlighted products with high sales but low margins.
 Customer Trends → Seasonal and regional demand patterns discovered.
 Operational Planning → Improved inventory forecasting & logistics planning.
-Strategic Actions → Marketing focus shifted toward high-margin categories and underperforming regions
+Strategic Actions → Marketing focus shifted toward high-margin categories and underperforming regions.
+
+⚡ Outcome: The dashboard empowers decision-makers to increase revenue, boost profit margins, and improve customer satisfaction using real-time insights.
 
 📸 Screennshot / Demo
 
